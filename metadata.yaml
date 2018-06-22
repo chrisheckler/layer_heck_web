@@ -9,7 +9,7 @@ subordinate: false
 series:
   - xenial
 resources:
-  heck-web:
+  flask-gunicorn-nginx:
     type: file
     filename: heck_web.snap
     description: "HECK WEB SNAP"

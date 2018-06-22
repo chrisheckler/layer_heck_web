@@ -3,7 +3,7 @@ includes:
   - layer:snap
 options:
   snap:
-    heck-web:
+    flask-gunicorn-nginx:
       channel: stable
       dangerous: true
       classic: true
