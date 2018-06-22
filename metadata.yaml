@@ -1,0 +1,15 @@
+name: heck-web
+summary: HECK WEB APP
+maintainer: Your Name <your@email.tld>
+description: |
+  HECK WEB APP 
+tags:
+  - webapp
+subordinate: false
+series:
+  - xenial
+resources:
+  heck-web:
+    type: file
+    filename: heck_web.snap
+    description: "HECK WEB SNAP"

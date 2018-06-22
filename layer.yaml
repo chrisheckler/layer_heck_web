@@ -1,0 +1,10 @@
+includes:
+  - layer:basic
+  - layer:snap
+options:
+  snap:
+    heck-web:
+      channel: stable
+      dangerous: true
+      classic: true
+repo: "https://github.com/heckler/layer-heck-web"
