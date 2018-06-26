@@ -13,3 +13,6 @@ resources:
     type: file
     filename: heck_web.snap
     description: "HECK WEB SNAP"
+requires:
+  database:
+    interface: mysql-shared
