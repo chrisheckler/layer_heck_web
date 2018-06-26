@@ -1,6 +1,7 @@
 includes:
   - layer:basic
   - layer:snap
+  - interface:mysql-shared
 options:
   snap:
     flask-gunicorn-nginx:
